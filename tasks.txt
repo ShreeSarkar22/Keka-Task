@@ -1,0 +1,10 @@
+1. generate otp -- done
+2. store it but dont show in /otp/send -- done
+3. Hardcode the registered users -- done
+4. Find a way to check time
+5. Verify time is within OTP active time
+6. Store OTP, find a way to see if it is already used
+
+POST
+7. Output should have phone number, time
+8. Stores only otp and time (since phone is hardcoded)

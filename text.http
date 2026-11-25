@@ -1,0 +1,16 @@
+### Create task
+POST http://localhost:3000/otp/send
+Content-Type: application/json
+
+{
+    "phone": "9830083322"
+}
+
+### Get all tasks
+POST http://localhost:3000/otp/verify
+Content-Type: application/json
+
+{
+    "id" : 100001,
+    "phone": "9830083322"
+}
